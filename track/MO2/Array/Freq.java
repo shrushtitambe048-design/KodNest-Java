@@ -1,6 +1,6 @@
 package Array;
 
-import java.util.scanner;
+import java.util.Scanner;
 
 public class Freq {
     int count = 0;
